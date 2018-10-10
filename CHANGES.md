@@ -1,3 +1,8 @@
+2018-10-10
+=========================
+
+ * Binh hot fix hasMany polymorphic relation has include filter
+
 2018-10-08, Version 4.0.0
 =========================
 
